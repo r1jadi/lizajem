@@ -7,12 +7,12 @@ import m5 from "@/assets/memory-5.jpg";
 import m6 from "@/assets/memory-6.jpg";
 
 const memories = [
-  { src: m1, caption: "Our first sunset together" },
-  { src: m2, caption: "That candlelit night" },
-  { src: m3, caption: "Dancing under the lights" },
-  { src: m4, caption: "A rose, just because" },
-  { src: m5, caption: "Footprints by the sea" },
-  { src: m6, caption: "Flowers that remind me of you" },
+  { src: m1, caption: "Our first date" },
+  { src: m2, caption: "Our study dates" },
+  { src: m3, caption: "Us driving around the city all the time" },
+  { src: m4, caption: "Seeing space up close for the first time" },
+  { src: m5, caption: "First anniversary" },
+  { src: m6, caption: "Us just eating (secret talent)" },
 ];
 
 export function Memories() {
