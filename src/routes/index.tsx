@@ -14,16 +14,16 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "For the Love of My Life ❤️" },
+      { title: "For Lizë, my loqki ❤️" },
       {
         name: "description",
         content:
-          "A small piece of how much you mean to me — a love letter, our memories, and a surprise just for you.",
+          "A small piece of how much you mean to me, Lizë — a love letter, our memories, and a surprise just for my loqki.",
       },
-      { property: "og:title", content: "For the Love of My Life ❤️" },
+      { property: "og:title", content: "For Lizë, my loqki ❤️" },
       {
         property: "og:description",
-        content: "A romantic journey made just for you.",
+        content: "A romantic journey made just for you, loqki.",
       },
     ],
   }),

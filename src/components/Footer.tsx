@@ -11,10 +11,10 @@ export function Footer() {
       >
         <div className="text-4xl mb-4 animate-float-soft">❤️</div>
         <p className="font-script text-4xl md:text-5xl text-primary text-glow mb-3">
-          Forever yours
+          Forever yours, Lizë ❤️
         </p>
         <p className="text-muted-foreground text-sm tracking-[0.3em] uppercase">
-          made with love · only for you
+          made with love · only for my loqki
         </p>
       </motion.div>
     </footer>

@@ -16,7 +16,7 @@ export function Hero({ onBegin }: { onBegin: () => void }) {
           transition={{ duration: 1, delay: 0.2 }}
           className="font-script text-2xl md:text-3xl text-primary mb-6"
         >
-          ~ a letter, in light ~
+          ~ for my Lizë ~
         </motion.p>
 
         <motion.h1
@@ -26,7 +26,7 @@ export function Hero({ onBegin }: { onBegin: () => void }) {
           className="font-display text-5xl md:text-7xl lg:text-8xl text-foreground text-glow leading-[1.05] mb-8"
         >
           For the Love of <br />
-          <span className="italic text-primary">My Life </span>
+          My Life, <span className="italic text-primary">Lizë </span>
           <span className="inline-block animate-float-soft">❤️</span>
         </motion.h1>
 

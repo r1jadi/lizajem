@@ -1,11 +1,11 @@
 import { motion, useInView } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
 
-const LETTER = `From the moment I met you, everything changed. The colors of the world grew softer, the quiet hours became sweeter, and every ordinary day learned how to glow.
+const LETTER = `From the moment I met you, loqki, everything changed. The colors of the world grew softer, the quiet hours became sweeter, and every ordinary day learned how to glow.
 
 You are my favorite thought in the morning and my last whisper at night. With you, time slows just enough for me to memorize the way you laugh — and races forward when I imagine all the years ahead.
 
-Thank you for being my home, my calm, my wonder. I love you. Endlessly.`;
+Thank you for being my home, my calm, my wonder. I love you, Lizë. Endlessly.`;
 
 export function LoveLetter() {
   const ref = useRef<HTMLDivElement>(null);
@@ -33,8 +33,8 @@ export function LoveLetter() {
           transition={{ duration: 1 }}
           className="text-center mb-12"
         >
-          <p className="font-script text-2xl text-primary mb-3">a letter for you</p>
-          <h2 className="font-display text-4xl md:text-6xl italic">My Love,</h2>
+          <p className="font-script text-2xl text-primary mb-3">a letter for my loqki</p>
+          <h2 className="font-display text-4xl md:text-6xl italic">My dearest Lizë,</h2>
         </motion.div>
 
         <motion.div
