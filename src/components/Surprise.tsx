@@ -43,7 +43,7 @@ export function Surprise() {
           viewport={{ once: true }}
           transition={{ duration: 0.9 }}
         >
-          <p className="font-script text-2xl text-primary mb-3">one more thing...</p>
+          <p className="font-script text-2xl text-primary mb-3">one more thing, loqki...</p>
           <h2 className="font-display text-4xl md:text-6xl italic mb-8">
             I have a little surprise for you
           </h2>
@@ -77,13 +77,13 @@ export function Surprise() {
               >
                 <div className="text-6xl mb-6 animate-float-soft">❤️</div>
                 <h3 className="font-display text-3xl md:text-5xl italic text-primary mb-6 text-glow">
-                  I love you
+                  I love you, loqki
                 </h3>
                 <p className="font-display text-lg md:text-2xl text-foreground/85 leading-relaxed">
                   more than words can ever express.
                   <br />
                   <span className="font-script text-primary text-2xl md:text-3xl">
-                    Today, tomorrow, always.
+                    Today, tomorrow, always — my Lizë.
                   </span>
                 </p>
                 <button

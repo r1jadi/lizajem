@@ -22,8 +22,8 @@ export function Reasons() {
           transition={{ duration: 0.9 }}
           className="text-center mb-16"
         >
-          <p className="font-script text-2xl text-primary mb-3">a few of countless</p>
-          <h2 className="font-display text-4xl md:text-6xl italic">Reasons I Love You</h2>
+          <p className="font-script text-2xl text-primary mb-3">a few of countless, loqki</p>
+          <h2 className="font-display text-4xl md:text-6xl italic">Reasons I Love You, Lizë</h2>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
